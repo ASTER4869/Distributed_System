@@ -204,6 +204,7 @@ def out():
         print(o_timestamp)
         sleep(2)
 introducer_ip=("192.168.119.1", 3333)
+#你的ip和服务器端口
 ip_list=[]
 ip=()
 acc_iplist=[]
